@@ -5,7 +5,7 @@
   </section>
 
   <section class="flex flex-col justify-center items-center w-screen h-screen">
-    <h1>¿Quién es este Pokémon?</h1>
+    <h1 class="m-5">¿Quién es este Pokémon?</h1>
 
     <!-- Pokemon Picture -->
     <PokemonPicture />
